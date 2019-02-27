@@ -1,3 +1,5 @@
+# @author Ekrem Solmaz 
+
 from nltk.tokenize import word_tokenize
 import readData as rd
 import numpy as np
